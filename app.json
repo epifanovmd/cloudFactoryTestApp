@@ -1,0 +1,6 @@
+{
+  "name": "cloudFactoryTestApp",
+  "displayName": "cloudFactoryTestApp",
+  "protocol": "https",
+  "hostname": "poloniex.com"
+}
